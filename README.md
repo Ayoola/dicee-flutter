@@ -2,7 +2,7 @@
 
 Dicee is a Las Vegas dice app. You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
 
-![Dicee Screenshot](diceescreenshot.png)
+<img src="diceescreenshot.png" width="100">
 
 ## What I learned from this project
 
